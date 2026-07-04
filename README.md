@@ -89,4 +89,4 @@ powerco-churn-prediction/
 
 ## Acknowledgements
 
-Completed as part of the [BCG Data Science Job Simulation](https://www.theforage.com/) on Forage. The dataset and brief were provided by the program; all analysis, code, and conclusions in this repository are my own.
+Completed as part of the [BCG Data Science Job Simulation](https://www.theforage.com/simulations/bcg/data-science-ccdz/) on Forage. The dataset and brief were provided by the program; all analysis, code, and conclusions in this repository are my own.
