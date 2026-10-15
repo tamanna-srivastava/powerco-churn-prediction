@@ -72,6 +72,7 @@ powerco-churn-prediction/
 ├── 01_exploratory_data_analysis.ipynb
 ├── 02_feature_engineering.ipynb
 ├── 03_modelling.ipynb
+├── Executive Summary.pdf
 ├── client_data.csv
 ├── price_data.csv
 ├── clean_data_after_eda.csv
@@ -83,7 +84,7 @@ powerco-churn-prediction/
 
 ## Tech Stack
 
-`Python` · `pandas` · `numpy` · `scikit-learn` · `matplotlib` · `Jupyter`
+`Python` · `pandas` · `numpy` · `scikit-learn` · `matplotlib` · `Jupyter` · `Seaborn`
 
 ---
 
